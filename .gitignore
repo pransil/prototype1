@@ -42,5 +42,6 @@ Thumbs.db
 
 # Kaggle
 kaggle.json
+.kagle.json
 *.csv
 *.txt 
